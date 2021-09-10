@@ -1,0 +1,62 @@
+//Nombre=Gerd
+//Apellido=Claros
+//Edad=34
+//Profesion=Ingenieria de Sistema
+
+//Pares Clave valor
+
+{
+"Nombre":"Gerd",
+"Apellido":"Claros",
+"Edad":34,
+"Profesion":"Ingenieria de Sistema"
+
+}
+//Array
+
+{
+"Nombre": "Gerd",
+"Apellido": "Claros",
+"Edad":34,
+"Profesion": "Ingenieria de Sistema"
+"Direccion": ["Direccion 1", "Direccion 2", "Direccion 3"]
+}
+
+//Nombre=Gerd
+//Apellido=Claros
+//Edad=34
+//Profesion=Ingenieria de Sistema
+
+//Nombre Apellido EDAD Profesion DIRECCION Nacionalidades Pais Capital Altitud Longitud
+//GERD CLAROS 34 Ingenieria DIRECCION 1 INDIA New
+//GERD CLAROS 34 Ingenieria DIRECCION 1 INDIA New
+//GERD CLAROS 34 Ingenieria DIRECCION 1 INDIA New
+//GERD CLAROS 34 Ingenieria DIRECCION 1 INDIA New
+
+
+//Matriz
+
+{
+"Nombre": "Gerd",
+"Apellido": "Claros",
+"Edad":34,
+"Profesion": "Ingenieria de Sistema"
+"Direccion": ["Direccion 1", "Direccion 2", "Direccion 3"]
+"Nacionalidades":[
+{
+"Pais":"India",
+"Data":{
+"Capital":"New Delhi",
+"Altitud":343,
+"Longitud":343,
+}
+{
+"Pais":"Bolivia",
+"Data":{
+"Capital":"La Paz",
+"Altitud":343,
+"Longitud":343,
+}
+}
+]
+}
